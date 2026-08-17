@@ -2,14 +2,14 @@
 
 Acompanhamento diário das minhas tarefas e evolução no NPI.
 
-## 🎯 Metas da Semana
+##  Metas da Semana
 - [ ] Terminar tarefas do Guilherme.
 - [ ] Terminar a lista 1 do Guilherme.
 - [ ] Estudar POO por fora.
 
 ---
 
-## 📅 Semana Atual: 17/08 a 21/08
+##  Semana Atual: 17/08 a 21/08
 
 **Legenda de Status:**
 - `- [ ]` Tarefa pendente
@@ -33,7 +33,7 @@ Acompanhamento diário das minhas tarefas e evolução no NPI.
 - [ ] POO - AT07
 
 ### Quinta-feira (20/08)
-- [ ] Lista 1 Guilherme
+- [ ] Meu aniversário, não vo ta aqui rs 
 
 ### Sexta-feira (21/08)
 - [ ] Lista 1 Guilherme 
