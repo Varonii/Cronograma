@@ -11,29 +11,24 @@ Acompanhamento diário das minhas tarefas e evolução no NPI.
 
 ##  Semana Atual: 17/08 a 21/08
 
-**Legenda de Status:**
-- `- [ ]` Tarefa pendente
-- `- [x]` Tarefa concluída ✅
-- `- [ ]` ❌ Não consegui cumprir / Cancelado
-- `- [ ]` ⏭️ Adiado para outro dia
-
 ### Segunda-feira (17/08)
-- [ ] LondrinenseTech
-- [ ] Relatório e commit no portfolio
-- [ ] Tarefa 1 Guilherme
+- [x] LondrinenseTech
+- [x] Relatório e commit no portfolio
+- [x] Tarefa 1 Guilherme
 
 ### Terça-feira (18/08)
 - [ ] Pensamento 
 - [ ] Relatório e commit no portfolio
 - [ ] Tarefa 2 Guilherme
+- [ ] POO - AT07
 
 ### Quarta-feira (19/08)
 - [ ] Pensamento 2
-- [ ] Relatório e commit no portfolio
-- [ ] POO - AT07
+- [ ] Tarefa 3 Guilherme
 
 ### Quinta-feira (20/08)
-- [ ] Meu aniversário, não vo ta aqui rs 
+- [ ] POO 
+- [ ] Lista 1 Guilherme
 
 ### Sexta-feira (21/08)
 - [ ] Lista 1 Guilherme 
