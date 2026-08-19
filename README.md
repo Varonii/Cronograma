@@ -17,17 +17,16 @@ Acompanhamento diário das minhas tarefas e evolução no NPI.
 - [x] Tarefa 1 Guilherme
 
 ### Terça-feira (18/08)
-- [ ] Pensamento 
-- [ ] Relatório e commit no portfolio
-- [ ] Tarefa 2 Guilherme
-- [ ] POO - AT07
+- [x] Pensamento 
+- [x] Relatório e commit no portfolio
+- [x] Tarefa 2 Guilherme
 
 ### Quarta-feira (19/08)
 - [ ] Pensamento 2
 - [ ] Tarefa 3 Guilherme
+- [ ] POO - AT07
 
 ### Quinta-feira (20/08)
-- [ ] POO 
 - [ ] Lista 1 Guilherme
 
 ### Sexta-feira (21/08)
