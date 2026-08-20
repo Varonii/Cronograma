@@ -3,7 +3,7 @@
 Acompanhamento diário das minhas tarefas e evolução no NPI.
 
 ##  Metas da Semana
-- [ ] Terminar tarefas do Guilherme.
+- [x] Terminar tarefas do Guilherme.
 - [ ] Terminar a lista 1 do Guilherme.
 - [ ] Estudar POO por fora.
 
@@ -22,11 +22,12 @@ Acompanhamento diário das minhas tarefas e evolução no NPI.
 - [x] Tarefa 2 Guilherme
 
 ### Quarta-feira (19/08)
-- [ ] Pensamento 2
+- [x] Pensamento 2
 - [ ] Tarefa 3 Guilherme
 - [ ] POO - AT07
 
 ### Quinta-feira (20/08)
+- [x] POO - AT07
 - [ ] Lista 1 Guilherme
 
 ### Sexta-feira (21/08)
